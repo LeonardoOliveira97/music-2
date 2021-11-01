@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+
+.radio img{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
