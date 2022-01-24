@@ -67,3 +67,12 @@ li > a:hover{
 div.list{
     background-image: url(clave_de_sol-removebg-preview.png);
 }
+
+h1 > a{
+    color: white;
+}
+
+h1 > a:hover{
+    color:black;
+    transition-duration: .3s;
+}
